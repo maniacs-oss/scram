@@ -85,5 +85,6 @@ target_link_libraries(scram scramcore ${Boost_LIBRARIES})
 install(
   TARGETS scram
   RUNTIME DESTINATION bin
+  BUNDLE DESTINATION "${SCRAM_BUNDLE_LOCATION}"
   COMPONENT scram
   )

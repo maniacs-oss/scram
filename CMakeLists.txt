@@ -148,6 +148,8 @@ set(CMAKE_INSTALL_RPATH_USE_LINK_PATH TRUE)
 # Tell CMake where the modules are.
 list(APPEND CMAKE_MODULE_PATH "${PROJECT_SOURCE_DIR}/cmake")
 
+set(SCRAM_BUNDLE_LOCATION "${CMAKE_INSTALL_PREFIX}")
+
 ######################## End cmake configuration ###################
 
 ######################## Begin find libraries ######################
@@ -267,27 +269,13 @@ if(PACKAGE)
     set(CPACK_CREATE_DESKTOP_LINKS "scram-gui")
     set(CPACK_COMPONENT_GUI_REQUIRED ON)
     # The following configuration assumes MinGW64 is setup specifically for this project.
-    # Moreover, the Qt5 libs and plugins must be linked staticly,
-    # so there's no headache with implicit (undiscoverable) dependencies.
     get_filename_component(MINGW_DLL_DIR "${CMAKE_CXX_COMPILER}" PATH)
     message(STATUS "MinGW bin location: ${MINGW_DLL_DIR}")
-    include(GetPrerequisites)
-    get_prerequisites("${CMAKE_RUNTIME_OUTPUT_DIRECTORY}/scram.exe"
-      SCRAM_ALL_PREREQUISITES 1 1 "" "")
-    message(STATUS "SCRAM dependency libs:\n${SCRAM_ALL_PREREQUISITES}")
-    foreach(item ${SCRAM_ALL_PREREQUISITES})
-      string(REGEX MATCH "scram" is_scram "${item}")
-      if(NOT is_scram)
-        gp_resolve_item("${MINGW_DLL_DIR}" "${item}" "" "" item)
-        list(APPEND SCRAM_PREREQUISITES ${item})
-      endif()
-    endforeach()
-    message(STATUS "SCRAM dependency libs resolution:\n${SCRAM_PREREQUISITES}")
-
-    install(FILES
-      ${SCRAM_PREREQUISITES}
-      DESTINATION bin COMPONENT libraries
-    )
+    install(CODE "
+      include(BundleUtilities)
+      set(BU_CHMOD_BUNDLE_ITEMS ON)
+      fixup_bundle(\"${CMAKE_RUNTIME_OUTPUT_DIRECTORY}/scram.exe\" \"\" \"${MINGW_DLL_DIR}\")
+      " COMPONENT scram)
   endif()
 endif()
 
@@ -300,9 +288,8 @@ set(CPACK_RESOURCE_FILE_LICENSE "${PROJECT_SOURCE_DIR}/LICENSE")
 
 set(CPACK_STRIP_FILES ON)
 
-set(CPACK_COMPONENTS_ALL scram libraries gui examples)
+set(CPACK_COMPONENTS_ALL scram gui examples)
 set(CPACK_COMPONENT_SCRAM_REQUIRED ON)
-set(CPACK_COMPONENT_LIBRARIES_REQUIRED ON)
 
 include(CPack)
 
