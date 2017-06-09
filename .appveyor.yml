@@ -19,6 +19,7 @@ install:
     - pacman --noconfirm -S mingw-w64-x86_64-libxml++2.6
     - pacman --noconfirm -S mingw-w64-x86_64-jasper
     - pacman --noconfirm -S mingw-w64-x86_64-qt5-static
+    - pacman --noconfirm -S mingw-w64-x86_64-qwt-qt5
 
 before_build:
     - md install

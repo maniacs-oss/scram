@@ -82,6 +82,7 @@ boost                  1.58
 libxml++               2.38.1
 Python                 2.7.3 or 3.3
 Qt                     5.2.1
+Qwt                    6.0.0
 ====================   ==================
 
 
@@ -141,6 +142,7 @@ The minimal list of required library package names is:
 #. qt5-default
 #. libqt5svg5-dev
 #. libqt5opengl5-dev
+#. libqwt-qt5-dev
 
 and (optionally):
 
@@ -162,7 +164,7 @@ the following line will install all major dependencies:
 
 .. code-block:: bash
 
-    sudo apt-get install -y cmake lib{boost-all,xml++2.6,google-perftools,qt5{svg,opengl}5}-dev qt5-default
+    sudo apt-get install -y cmake lib{boost-all,xml++2.6,google-perftools,qt5{svg,opengl}5,qwt-qt5}-dev qt5-default
 
 
 macOS
@@ -193,6 +195,7 @@ The minimal list of required library package names is:
 #. boost
 #. libxml++
 #. qt5
+#. qwt
 
 and (optionally):
 
@@ -213,7 +216,7 @@ the following line will install all major dependencies:
 
 .. code-block:: bash
 
-    brew install cmake boost libxml++ gperftools qt5
+    brew install cmake boost libxml++ gperftools qt5 qwt
 
 .. _macports: http://www.macports.org/
 .. _homebrew: http://brew.sh/
@@ -241,6 +244,7 @@ Where ``package`` is replaced by the correct package name:
 #. boost
 #. libxml++2.6
 #. qt5
+#. qwt-qt5
 
 and (optionally):
 
@@ -258,7 +262,7 @@ the following line will install all major dependencies:
 
 .. code-block:: bash
 
-    pacman --noconfirm -S python mingw-w64-x86_64-{gcc,make,cmake,boost,libxml++2.6,qt5,jemalloc}
+    pacman --noconfirm -S python mingw-w64-x86_64-{gcc,make,cmake,boost,libxml++2.6,qt5,qwt-qt5,jemalloc}
 
 SCRAM installation and executables must be run inside of the MSYS2 shell.
 

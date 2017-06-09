@@ -8,6 +8,7 @@ if [[ "${TRAVIS_OS_NAME}" == "osx" ]]; then
   brew install libxml++
   brew install gperftools
   brew install qt5
+  brew install qwt
   brew install ccache
 fi
 

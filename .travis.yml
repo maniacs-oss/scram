@@ -50,10 +50,12 @@ addons:
             - qt5-default
             - libqt5svg5-dev
             - libqt5opengl5-dev
+            - qwt-qt5
         sources:
             - ubuntu-toolchain-r-test
             - llvm-toolchain-trusty
             - sourceline: "ppa:kzemek/boost"
+            - sourceline: "ppa:pothosware/support"
 
 install:
     - .travis/install.sh  # Dependencies are built with gcc or clang.

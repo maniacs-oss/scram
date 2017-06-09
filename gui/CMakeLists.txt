@@ -7,6 +7,7 @@ find_package(Qt5Widgets REQUIRED)
 find_package(Qt5Svg REQUIRED)
 find_package(Qt5OpenGL REQUIRED)
 find_package(Qt5PrintSupport REQUIRED)
+
 if(Qt5Widgets_FOUND)
   message(STATUS "Found Qt5")
   message(STATUS "Qt5 Version: ${Qt5Widgets_VERSION_STRING}")
@@ -19,6 +20,12 @@ if(Qt5OpenGL_FOUND)
 endif()
 if(Qt5PrintSupport_FOUND)
   message(STATUS "Found Qt5 PrintSupport")
+endif()
+
+set(Qwt_FIND_VERSION 6)
+find_package(Qwt REQUIRED)
+if(QWT_FOUND)
+  message(STATUS "Found Qwt: ${QWT_VERSION_STRING}")
 endif()
 
 # Prevent implicit QString(const char*), string concat with "+", and other anti-patterns.
