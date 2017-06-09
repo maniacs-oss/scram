@@ -31,6 +31,7 @@ build_script:
     - cmake .. -DPACKAGE=ON
     - make install/strip -j 2
     - cpack --verbose
+    - dir
     - cd ..
 
 after_build:

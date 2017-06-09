@@ -148,8 +148,6 @@ set(CMAKE_INSTALL_RPATH_USE_LINK_PATH TRUE)
 # Tell CMake where the modules are.
 list(APPEND CMAKE_MODULE_PATH "${PROJECT_SOURCE_DIR}/cmake")
 
-set(SCRAM_BUNDLE_LOCATION "${CMAKE_INSTALL_PREFIX}")
-
 ######################## End cmake configuration ###################
 
 ######################## Begin find libraries ######################
@@ -275,7 +273,7 @@ if(PACKAGE)
       include(BundleUtilities)
       set(BU_CHMOD_BUNDLE_ITEMS ON)
       fixup_bundle(\"${CMAKE_RUNTIME_OUTPUT_DIRECTORY}/scram.exe\" \"\" \"${MINGW_DLL_DIR}\")
-      " COMPONENT scram)
+      " COMPONENT runtime)
   endif()
 endif()
 
@@ -288,7 +286,7 @@ set(CPACK_RESOURCE_FILE_LICENSE "${PROJECT_SOURCE_DIR}/LICENSE")
 
 set(CPACK_STRIP_FILES ON)
 
-set(CPACK_COMPONENTS_ALL scram gui examples)
+set(CPACK_COMPONENTS_ALL scram gui examples runtime)
 set(CPACK_COMPONENT_SCRAM_REQUIRED ON)
 
 include(CPack)
