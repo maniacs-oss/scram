@@ -1,0 +1,7 @@
+<map id="scram::mef::Model::Add" name="scram::mef::Model::Add">
+<area shape="rect" id="node2" href="$classscram_1_1mef_1_1Model.xhtml#aaebfa79fb3fbf5d2987f6bbc9c4a9b67" title="Convenience function to retrieve an event with its ID. " alt="" coords="228,71,377,112"/>
+<area shape="rect" id="node6" href="$classscram_1_1mef_1_1Model.xhtml#a29c599ffb3b083ebc34fc0cef1ceeac7" title="Removes MEF constructs from the model container. " alt="" coords="228,136,377,177"/>
+<area shape="rect" id="node3" href="$classscram_1_1mef_1_1Model.xhtml#ada7804d62fc594bff7b080c680586209" title="scram::mef::Model::\lbasic_events" alt="" coords="425,5,575,47"/>
+<area shape="rect" id="node4" href="$classscram_1_1mef_1_1Model.xhtml#ab67ee068ec7f783c7b3c573270cf4fdb" title="scram::mef::Model::\lgates" alt="" coords="425,71,575,112"/>
+<area shape="rect" id="node5" href="$classscram_1_1mef_1_1Model.xhtml#a2ddd6d121e1ab6fbe140fc3fb449cd96" title="scram::mef::Model::\lhouse_events" alt="" coords="425,136,575,177"/>
+</map>

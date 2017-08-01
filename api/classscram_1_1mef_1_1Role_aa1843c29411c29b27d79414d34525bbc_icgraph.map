@@ -1,0 +1,6 @@
+<map id="scram::mef::Role::role" name="scram::mef::Role::role">
+<area shape="rect" id="node2" href="$classscram_1_1mef_1_1Initializer.xhtml#a23644918c97ad60b587532ee6533287d" title="Specializations for elements defined after registration. " alt="" coords="243,5,401,47"/>
+<area shape="rect" id="node3" href="$structscram_1_1mef_1_1Initializer_1_1Extractor_3_01T_00-1_01_4.xhtml#a0d6a8f1491cbe14a5aac653129c6445d" title="Constructs an expression with a variable number of arguments. " alt="" coords="215,71,429,112"/>
+<area shape="rect" id="node4" href="$serialization_8cc.xhtml#a83f7058a5caad9ec3ffb5fd6c7d7b8f6" title="Convenience function for serialization into a file. " alt="" coords="243,161,401,187"/>
+<area shape="rect" id="node5" href="$classscram_1_1mef_1_1Id.xhtml#a846997cebdf27bbff872fa87e7f1a9e2" title="Produces unique name for the model element within the same type. " alt="" coords="217,211,427,238"/>
+</map>

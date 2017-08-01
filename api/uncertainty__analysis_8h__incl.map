@@ -1,0 +1,13 @@
+<map id="uncertainty_analysis.h" name="uncertainty_analysis.h">
+<area shape="rect" id="node4" href="$analysis_8h.xhtml" title="Common facilities for all analysis classes. " alt="" coords="2141,326,2227,353"/>
+<area shape="rect" id="node8" href="$settings_8h.xhtml" title="Builder for settings. " alt="" coords="2091,415,2176,442"/>
+<area shape="rect" id="node10" href="$probability__analysis_8h.xhtml" title="Contains functionality to do numerical analysis of probabilities. " alt="" coords="1257,80,1415,107"/>
+<area shape="rect" id="node11" href="$bdd_8h.xhtml" title="Fault tree analysis with the Binary Decision Diagram algorithms. " alt="" coords="1307,326,1365,353"/>
+<area shape="rect" id="node19" href="$pdag_8h.xhtml" title="Classes and facilities to represent fault trees as PDAGs with event and gate indices instead of ID na..." alt="" coords="768,415,835,442"/>
+<area shape="rect" id="node29" href="$fault__tree__analysis_8h.xhtml" title="Fault Tree Analysis. " alt="" coords="891,155,1045,181"/>
+<area shape="rect" id="node24" href="$find__iterator_8h.xhtml" title="Convenience iterator adaptor to wrap find calls and results. " alt="" coords="483,505,618,531"/>
+<area shape="rect" id="node25" href="$index__map_8h.xhtml" title="Non&#45;zero based Index&#45;&gt;Value map adapter on sequential containers. " alt="" coords="1333,505,1461,531"/>
+<area shape="rect" id="node26" href="$linear__map_8h.xhtml" title="Implementation of a vector&#45;based map for a small number of entries. " alt="" coords="694,505,823,531"/>
+<area shape="rect" id="node33" href="$preprocessor_8h.xhtml" title="A collection of PDAG transformation/preprocessing algorithms that simplify fault trees for analysis..." alt="" coords="328,326,445,353"/>
+<area shape="rect" id="node36" href="$zbdd_8h.xhtml" title="Zero&#45;Suppressed Binary Decision Diagram facilities. " alt="" coords="1009,237,1074,263"/>
+</map>

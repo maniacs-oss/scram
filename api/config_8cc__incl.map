@@ -1,0 +1,7 @@
+<map id="config.cc" name="config.cc">
+<area shape="rect" id="node2" href="$config_8h.xhtml" title="Configuration management facilities to make various setups for analysis possible. ..." alt="" coords="347,80,419,107"/>
+<area shape="rect" id="node14" href="$env_8h.xhtml" title="Environmental Variables. " alt="" coords="113,80,169,107"/>
+<area shape="rect" id="node15" href="$error_8h.xhtml" title="Exceptions for SCRAM. " alt="" coords="1625,155,1689,181"/>
+<area shape="rect" id="node17" href="$xml_8h.xhtml" title="XML helper facilities to work with libxml++. " alt="" coords="846,80,903,107"/>
+<area shape="rect" id="node7" href="$settings_8h.xhtml" title="Builder for settings. " alt="" coords="25,155,111,181"/>
+</map>

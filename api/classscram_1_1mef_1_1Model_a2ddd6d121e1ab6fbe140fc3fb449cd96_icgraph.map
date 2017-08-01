@@ -1,0 +1,6 @@
+<map id="scram::mef::Model::house_events" name="scram::mef::Model::house_events">
+<area shape="rect" id="node2" href="$classscram_1_1mef_1_1Model.xhtml#aaebfa79fb3fbf5d2987f6bbc9c4a9b67" title="Convenience function to retrieve an event with its ID. " alt="" coords="244,5,393,47"/>
+<area shape="rect" id="node4" href="$reporter_8cc.xhtml#ad6460094a94fb73e56c2a4a5efc598ed" title="Describes all performed analyses deduced from settings. " alt="" coords="203,71,435,112"/>
+<area shape="rect" id="node5" href="$serialization_8cc.xhtml#a12094f882cf779ecac838576c86954ee" title="Serializes the model and its data into stream as XML. " alt="" coords="240,137,397,163"/>
+<area shape="rect" id="node3" href="$classscram_1_1mef_1_1Model.xhtml#a399227af1b36b77162c75a51fe13ebe7" title="Adds MEF constructs into the model container. " alt="" coords="483,13,657,39"/>
+</map>

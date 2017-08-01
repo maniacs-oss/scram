@@ -1,0 +1,36 @@
+<map id="scram::mef::Serialize" name="scram::mef::Serialize">
+<area shape="rect" id="node2" href="$classscram_1_1XmlStreamElement.xhtml#ac8227ce1d2bf22ab83d3055a8e98fb2d" title="Adds a child element to the element. " alt="" coords="416,367,611,408"/>
+<area shape="rect" id="node4" href="$classscram_1_1mef_1_1Model.xhtml#ada7804d62fc594bff7b080c680586209" title="scram::mef::Model::\lbasic_events" alt="" coords="215,71,364,112"/>
+<area shape="rect" id="node5" href="$classscram_1_1mef_1_1Model.xhtml#a5c8b03561207b374fc06dd61c0cf3ace" title="scram::mef::Model::\lccf_groups" alt="" coords="215,5,364,47"/>
+<area shape="rect" id="node7" href="$classscram_1_1mef_1_1Model.xhtml#a97786aaa61d59617a0b08dcd518d0d68" title="scram::mef::Model::\levent_trees" alt="" coords="215,188,364,229"/>
+<area shape="rect" id="node8" href="$classscram_1_1mef_1_1Model.xhtml#a9bac9a7746026484f3dc69a3ccb2ac4a" title="scram::mef::Model::\lfault_trees" alt="" coords="215,253,364,295"/>
+<area shape="rect" id="node9" href="$classscram_1_1mef_1_1Model.xhtml#a742b8f5f989b633eeeeb192d2e793181" title="scram::mef::Model::\lHasDefaultName" alt="" coords="689,192,839,233"/>
+<area shape="rect" id="node10" href="$classscram_1_1mef_1_1Element.xhtml#adb401e2ca84aa98cb60797bec2500a81" title="scram::mef::Element\l::name" alt="" coords="917,524,1073,565"/>
+<area shape="rect" id="node11" href="$classscram_1_1mef_1_1Model.xhtml#a2ddd6d121e1ab6fbe140fc3fb449cd96" title="scram::mef::Model::\lhouse_events" alt="" coords="215,421,364,463"/>
+<area shape="rect" id="node12" href="$classscram_1_1mef_1_1Model.xhtml#a04f7628e1d3a27295d2ac7bbdc7ab26b" title="scram::mef::Model::\linitiating_events" alt="" coords="215,487,364,528"/>
+<area shape="rect" id="node13" href="$classscram_1_1mef_1_1Model.xhtml#a698156baa445c530089d57601e19bb35" title="scram::mef::Model::\lparameters" alt="" coords="215,552,364,593"/>
+<area shape="rect" id="node14" href="$classscram_1_1mef_1_1Model.xhtml#a52198e362df1827d583eceed7306eb6f" title="scram::mef::Model::\lrules" alt="" coords="215,617,364,659"/>
+<area shape="rect" id="node15" href="$classscram_1_1mef_1_1Model.xhtml#afbb8bfee9de066a3341d34ef5ce885e4" title="scram::mef::Model::\lsequences" alt="" coords="215,683,364,724"/>
+<area shape="rect" id="node16" href="$serialization_8cc.xhtml#a83f7058a5caad9ec3ffb5fd6c7d7b8f6" title="Convenience function for serialization into a file. " alt="" coords="211,870,368,897"/>
+<area shape="rect" id="node32" href="$classscram_1_1XmlStreamElement.xhtml#a3f8cfc1031e589dac6e33ea98c9b0479" title="Sets the attributes for the element. " alt="" coords="416,1448,611,1489"/>
+<area shape="rect" id="node3" href="$classscram_1_1XmlStreamElement.xhtml#af62b9ffc844dba0b3fa143136dc5ac50" title="Constructs a root streamer for the XML element data ready to accept attributes, elements, text. " alt="" coords="667,367,861,408"/>
+<area shape="rect" id="node6" href="$classscram_1_1mef_1_1Model.xhtml#a73983f66319f63a3f663c5fb318a2620" title="Adds MEF constructs into the model container. " alt="" coords="426,13,601,39"/>
+<area shape="rect" id="node17" href="$classscram_1_1XmlStreamElement.xhtml#a414c693e59f68e95677ed91e48bae61a" title="Adds text to the element. " alt="" coords="416,797,611,839"/>
+<area shape="rect" id="node18" href="$classscram_1_1mef_1_1Expression.xhtml#ac22fdb9ced7ef6942f666337b6a34110" title="scram::mef::Expression\l::args" alt="" coords="427,863,599,904"/>
+<area shape="rect" id="node19" href="$classscram_1_1mef_1_1Element.xhtml#a25474d50f8cc2c6a728c88e4c7d1b9f1" title="scram::mef::Element\l::attributes" alt="" coords="435,928,591,969"/>
+<area shape="rect" id="node20" href="$classscram_1_1mef_1_1Component.xhtml#a483f7a67e2197449902bddc48756e2cd" title="scram::mef::Component\l::components" alt="" coords="424,993,603,1035"/>
+<area shape="rect" id="node24" href="$classscram_1_1mef_1_1Component.xhtml#ad246305a79904f65b36157096464703b" title="scram::mef::Component\l::gates" alt="" coords="675,1052,853,1093"/>
+<area shape="rect" id="node25" href="$classscram_1_1mef_1_1Formula.xhtml#a4e86a729bae4629de0217c9f8c6960a0" title="scram::mef::Formula\l::event_args" alt="" coords="436,1111,591,1152"/>
+<area shape="rect" id="node26" href="$classscram_1_1mef_1_1BasicEvent.xhtml#ab9764640b00bcc3f7241c5bf185d8f2a" title="Sets the expression of this basic event. " alt="" coords="427,1200,600,1241"/>
+<area shape="rect" id="node27" href="$classscram_1_1mef_1_1Gate.xhtml#abde84a63a060e2424ab92431634f21d9" title="scram::mef::Gate::formula" alt="" coords="418,1266,609,1293"/>
+<area shape="rect" id="node28" href="$classscram_1_1mef_1_1Formula.xhtml#af3c5953f817cc202b5009cc4557c7d72" title="scram::mef::Formula\l::formula_args" alt="" coords="436,1317,591,1359"/>
+<area shape="rect" id="node29" href="$classscram_1_1mef_1_1BasicEvent.xhtml#ab6b4e5fd2ce8a81ae887902be30c2b29" title="scram::mef::BasicEvent\l::HasExpression" alt="" coords="427,1383,600,1424"/>
+<area shape="rect" id="node30" href="$classscram_1_1mef_1_1Element.xhtml#a87e90b86d7599c2f60d7a7b99ab52d20" title="scram::mef::Element\l::label" alt="" coords="435,432,591,473"/>
+<area shape="rect" id="node31" href="$classscram_1_1mef_1_1Role.xhtml#aa1843c29411c29b27d79414d34525bbc" title="scram::mef::Role::role" alt="" coords="433,498,594,525"/>
+<area shape="rect" id="node33" href="$classscram_1_1mef_1_1HouseEvent.xhtml#a15ab4daf36b62127703cf610bdc80183" title="Sets the state for House event. " alt="" coords="423,549,603,591"/>
+<area shape="rect" id="node34" href="$classscram_1_1mef_1_1Formula.xhtml#aaf6992ab41ab8ae013211fd861e726db" title="scram::mef::Formula\l::type" alt="" coords="436,615,591,656"/>
+<area shape="rect" id="node35" href="$classscram_1_1mef_1_1Formula.xhtml#a73f9de40978aad0665e3a6d95e85e7a2" title="scram::mef::Formula\l::vote_number" alt="" coords="436,680,591,721"/>
+<area shape="rect" id="node21" href="$classscram_1_1mef_1_1Component.xhtml#a29871b1caf2fb961509b42872e6b5213" title="Adds MEF constructs into this component container. " alt="" coords="659,1001,869,1027"/>
+<area shape="rect" id="node22" href="$classscram_1_1mef_1_1Component.xhtml#ab9230b43d6903a2e26bf55f7584a1f56" title="Removes Event from the component container. " alt="" coords="675,869,853,911"/>
+<area shape="rect" id="node23" href="$classscram_1_1mef_1_1Component.xhtml#a63441da08667fe6826f3ae0c0a5a94fe" title="Recursively traverses components to gather gates relevant to the whole component. ..." alt="" coords="675,935,853,976"/>
+</map>

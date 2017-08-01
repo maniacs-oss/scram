@@ -1,0 +1,6 @@
+<map id="scram::mef::AlphaFactorModel" name="scram::mef::AlphaFactorModel">
+<area shape="rect" id="node2" href="$classscram_1_1mef_1_1CcfGroup.xhtml" title="Abstract base class for all common cause failure models. " alt="" coords="155,520,318,773"/>
+<area shape="rect" id="node3" href="$classscram_1_1mef_1_1Id.xhtml" title="Mixin class for assigning unique identifiers to elements. " alt="" coords="99,292,233,472"/>
+<area shape="rect" id="node4" href="$classscram_1_1mef_1_1Element.xhtml" title="Mixin class that represents any element of analysis that can have extra descriptions, such as attributes and a label. " alt="" coords="5,5,161,244"/>
+<area shape="rect" id="node5" href="$classscram_1_1mef_1_1Role.xhtml" title="Mixin class that manages private or public roles for elements as needed. " alt="" coords="185,64,315,185"/>
+</map>

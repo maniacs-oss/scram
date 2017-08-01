@@ -1,0 +1,5 @@
+<map id="scram::mef::GetFullPath" name="scram::mef::GetFullPath">
+<area shape="rect" id="node2" href="$classscram_1_1mef_1_1Initializer.xhtml#aa541fee61ff2be90b083f45dc1c26046" title="scram::mef::Initializer\l::model" alt="" coords="253,5,412,47"/>
+<area shape="rect" id="node4" href="$classscram_1_1mef_1_1Id.xhtml#a846997cebdf27bbff872fa87e7f1a9e2" title="Produces unique name for the model element within the same type. " alt="" coords="228,71,437,98"/>
+<area shape="rect" id="node3" href="$classscram_1_1mef_1_1Initializer.xhtml#a922f808a593655cd2a909533c2e4620b" title="Specializations for element registrations. " alt="" coords="485,5,644,47"/>
+</map>

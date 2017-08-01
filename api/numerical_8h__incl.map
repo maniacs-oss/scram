@@ -1,0 +1,6 @@
+<map id="numerical.h" name="numerical.h">
+<area shape="rect" id="node5" href="$constant_8h.xhtml" title="Constant expressions that cannot have uncertainties. " alt="" coords="459,80,550,107"/>
+<area shape="rect" id="node6" href="$expression_8h.xhtml" title="Provides the base class for all expressions and units for expression values. " alt="" coords="495,155,621,181"/>
+<area shape="rect" id="node18" href="$error_8h.xhtml" title="Exceptions for SCRAM. " alt="" coords="1118,237,1182,263"/>
+<area shape="rect" id="node13" href="$element_8h.xhtml" title="Helper classes, structs, and properties common to all other classes. " alt="" coords="303,237,389,263"/>
+</map>

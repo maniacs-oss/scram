@@ -1,0 +1,11 @@
+<map id="event_tree_analysis.h" name="event_tree_analysis.h">
+<area shape="rect" id="node6" href="$analysis_8h.xhtml" title="Common facilities for all analysis classes. " alt="" coords="124,229,209,256"/>
+<area shape="rect" id="node9" href="$settings_8h.xhtml" title="Builder for settings. " alt="" coords="22,311,108,338"/>
+<area shape="rect" id="node11" href="$event_8h.xhtml" title="Contains event classes for fault trees. " alt="" coords="518,155,588,181"/>
+<area shape="rect" id="node17" href="$expression_8h.xhtml" title="Provides the base class for all expressions and units for expression values. " alt="" coords="951,229,1054,256"/>
+<area shape="rect" id="node24" href="$event__tree_8h.xhtml" title="Event Tree facilities. " alt="" coords="646,80,748,107"/>
+<area shape="rect" id="node26" href="$test__event_8h.xhtml" title="Event tree analysis expressions to test functional and initiating events. " alt="" coords="931,80,1106,107"/>
+<area shape="rect" id="node13" href="$element_8h.xhtml" title="Helper classes, structs, and properties common to all other classes. " alt="" coords="724,311,811,338"/>
+<area shape="rect" id="node22" href="$error_8h.xhtml" title="Exceptions for SCRAM. " alt="" coords="836,311,900,338"/>
+<area shape="rect" id="node25" href="$variant_8h.xhtml" title="Extra helper functions for boost::variant. " alt="" coords="668,155,771,181"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="model.h" name="model.h">
+<area shape="rect" id="node2" href="$initializer_8h.xhtml" title="A facility that processes input files into analysis constructs. " alt="" coords="315,80,405,107"/>
+<area shape="rect" id="node5" href="$model_8cc.xhtml" title="Implementation of functions in Model class. " alt="" coords="69,80,149,107"/>
+<area shape="rect" id="node6" href="$reporter_8h.xhtml" title="Reporter of results. " alt="" coords="8,155,93,181"/>
+<area shape="rect" id="node8" href="$risk__analysis_8h.xhtml" title="Contains the main system for performing analysis. " alt="" coords="173,80,288,107"/>
+<area shape="rect" id="node10" href="$serialization_8h.xhtml" title="The MEF Model serialization facilities. " alt="" coords="441,80,551,107"/>
+<area shape="rect" id="node3" href="$initializer_8cc.xhtml" title="Implementation of input file processing into analysis constructs. " alt="" coords="313,155,407,181"/>
+<area shape="rect" id="node4" href="$scram_8cc.xhtml" title="Main entrance. " alt="" coords="263,229,343,256"/>
+<area shape="rect" id="node7" href="$reporter_8cc.xhtml" title="Implements Reporter class. " alt="" coords="5,229,96,256"/>
+<area shape="rect" id="node9" href="$risk__analysis_8cc.xhtml" title="Implementation of risk analysis handler. " alt="" coords="168,155,288,181"/>
+<area shape="rect" id="node11" href="$serialization_8cc.xhtml" title="serialization.cc" alt="" coords="534,155,650,181"/>
+</map>

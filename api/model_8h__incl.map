@@ -1,0 +1,12 @@
+<map id="model.h" name="model.h">
+<area shape="rect" id="node6" href="$ccf__group_8h.xhtml" title="Functional containers for basic events grouped by common cause failure. " alt="" coords="656,155,752,181"/>
+<area shape="rect" id="node10" href="$element_8h.xhtml" title="Helper classes, structs, and properties common to all other classes. " alt="" coords="1249,386,1335,413"/>
+<area shape="rect" id="node15" href="$event_8h.xhtml" title="Contains event classes for fault trees. " alt="" coords="1459,229,1530,256"/>
+<area shape="rect" id="node17" href="$expression_8h.xhtml" title="Provides the base class for all expressions and units for expression values. " alt="" coords="598,304,701,331"/>
+<area shape="rect" id="node23" href="$event__tree_8h.xhtml" title="Event Tree facilities. " alt="" coords="1518,155,1621,181"/>
+<area shape="rect" id="node25" href="$test__event_8h.xhtml" title="Event tree analysis expressions to test functional and initiating events. " alt="" coords="43,229,218,256"/>
+<area shape="rect" id="node27" href="$fault__tree_8h.xhtml" title="Fault Tree and Component containers. " alt="" coords="1079,80,1174,107"/>
+<area shape="rect" id="node29" href="$parameter_8h.xhtml" title="Parameter expressions that act like a shareable variable. " alt="" coords="877,229,979,256"/>
+<area shape="rect" id="node21" href="$error_8h.xhtml" title="Exceptions for SCRAM. " alt="" coords="373,386,437,413"/>
+<area shape="rect" id="node24" href="$variant_8h.xhtml" title="Extra helper functions for boost::variant. " alt="" coords="1767,229,1870,256"/>
+</map>

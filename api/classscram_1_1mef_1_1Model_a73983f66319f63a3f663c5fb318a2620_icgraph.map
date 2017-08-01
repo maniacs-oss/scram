@@ -1,0 +1,5 @@
+<map id="scram::mef::Model::Add" name="scram::mef::Model::Add">
+<area shape="rect" id="node2" href="$classscram_1_1mef_1_1Model.xhtml#a5c8b03561207b374fc06dd61c0cf3ace" title="scram::mef::Model::\lccf_groups" alt="" coords="228,35,377,76"/>
+<area shape="rect" id="node3" href="$reporter_8cc.xhtml#ad6460094a94fb73e56c2a4a5efc598ed" title="Describes all performed analyses deduced from settings. " alt="" coords="425,5,657,47"/>
+<area shape="rect" id="node4" href="$serialization_8cc.xhtml#a12094f882cf779ecac838576c86954ee" title="Serializes the model and its data into stream as XML. " alt="" coords="463,71,620,98"/>
+</map>

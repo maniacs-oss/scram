@@ -1,0 +1,8 @@
+<map id="fault_tree.h" name="fault_tree.h">
+<area shape="rect" id="node7" href="$ccf__group_8h.xhtml" title="Functional containers for basic events grouped by common cause failure. " alt="" coords="858,80,954,107"/>
+<area shape="rect" id="node11" href="$element_8h.xhtml" title="Helper classes, structs, and properties common to all other classes. " alt="" coords="189,311,276,338"/>
+<area shape="rect" id="node16" href="$event_8h.xhtml" title="Contains event classes for fault trees. " alt="" coords="595,155,665,181"/>
+<area shape="rect" id="node24" href="$parameter_8h.xhtml" title="Parameter expressions that act like a shareable variable. " alt="" coords="278,155,379,181"/>
+<area shape="rect" id="node18" href="$expression_8h.xhtml" title="Provides the base class for all expressions and units for expression values. " alt="" coords="741,229,844,256"/>
+<area shape="rect" id="node22" href="$error_8h.xhtml" title="Exceptions for SCRAM. " alt="" coords="781,311,845,338"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="scram::mef::NamedBranch" name="scram::mef::NamedBranch">
+<area shape="rect" id="node2" href="$classscram_1_1mef_1_1Element.xhtml" title="Mixin class that represents any element of analysis that can have extra descriptions, such as attributes and a label. " alt="" coords="5,5,161,244"/>
+<area shape="rect" id="node3" href="$classscram_1_1mef_1_1Branch.xhtml" title="The branch representation in event trees. " alt="" coords="185,64,333,185"/>
+<area shape="rect" id="node4" href="$classscram_1_1mef_1_1NodeMark.xhtml" title="Mixin class for providing marks for graph nodes. " alt="" coords="358,71,526,178"/>
+<area shape="rect" id="node5" href="$classscram_1_1mef_1_1Usage.xhtml" title="Mixin class for providing usage marks for elements. " alt="" coords="550,71,694,178"/>
+</map>

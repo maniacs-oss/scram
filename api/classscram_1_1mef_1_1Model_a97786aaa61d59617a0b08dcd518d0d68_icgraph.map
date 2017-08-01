@@ -1,0 +1,4 @@
+<map id="scram::mef::Model::event_trees" name="scram::mef::Model::event_trees">
+<area shape="rect" id="node2" href="$reporter_8cc.xhtml#ad6460094a94fb73e56c2a4a5efc598ed" title="Describes all performed analyses deduced from settings. " alt="" coords="203,5,435,47"/>
+<area shape="rect" id="node3" href="$serialization_8cc.xhtml#a12094f882cf779ecac838576c86954ee" title="Serializes the model and its data into stream as XML. " alt="" coords="240,71,397,98"/>
+</map>
